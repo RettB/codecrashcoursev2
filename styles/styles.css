@@ -1,0 +1,33 @@
+body{
+	background-color: grey;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+a{
+	align-content: center;
+}
+
+.emailme{
+	padding: 20px;
+	font-size: 30px;
+	background-color: orange;
+	border-radius: 8px;
+	border-style: none;
+}
+
+.buttonholder{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.break{
+	height: 10px;
+	background-color: orange;
+}
